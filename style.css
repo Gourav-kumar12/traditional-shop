@@ -1,0 +1,98 @@
+button.btn btn-outline-success my-8 my-sm-2 mt-6{
+    margin-left: 47rem;
+    color: red;
+}
+#fullimg{
+    height: 500px;
+}
+#img-1{
+    width: 150px;
+    margin: 10px;
+
+}
+.rounded-circle img{
+       
+        left: 0;
+        right: 0;
+        background-color: #008CBA;
+        overflow: hidden;
+        
+        transition: .3s ease;
+}
+.navimg:hover .rounded-circle{
+    transform: scale(1);
+    background-color: red;
+}
+p1{
+    background-color: rgb(255, 189, 200);
+    text-align: center;
+}
+
+.mid-1line{
+    display: flex;
+}
+#mid-1line{
+    width: 180px;
+    margin-top: 10px;
+}
+#mid-1line-1{
+    margin-left: auto;
+   
+}
+.col-lg-2 img{
+    width: 180px;
+    
+}
+.navimg{
+    margin: 5px;
+    margin-top: 16px;
+}
+ .container-2{
+     margin: 5px;
+     margin-top: 15px;
+     margin-bottom: 22px;
+ }
+ p2{
+     margin-left: 8px;
+     margin-top: 5px;
+ }
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#fullimg-2{
+    height: 380px;
+}
+.mid-4line{
+    text-align: center;
+}
+#insta-img6{
+    height: 235px;
+}
+#insta-img4{
+    height: 235px;
+}
+#insta-img3{
+    height: 226px;
+}
+#insta-img5{
+    height: 236px;
+}
+h4{
+    color: rgb(221, 99, 99);
+}
+h4{
+    text-align: center;
+}
+.first-line{
+    background-color: pink;
+    text-align: center;
+}
+.lastline{
+    background-color: pink;
+}
+#fullimg-3{
+    height: 412px;
+}
